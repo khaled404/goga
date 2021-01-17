@@ -1,0 +1,39 @@
+.lazy-load-image-background {
+    position: relative;
+    width: 100%;
+    z-index: -1;
+
+    img {
+        width: 100%;
+    }
+
+    &.product-image {
+        position: static;
+    }
+}
+
+.lazy-load-image-background.lazy-load-image-loaded {
+    display: inline !important;
+    z-index: 2;
+}
+
+.lazy-overlay {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background: #f5fffa;
+
+    &.bg-2 {
+        background: #b0c4de;
+    }
+
+    &.bg-3 {
+        background: #add8e6;
+    }
+
+    &.bg-4 {
+        background: #008b8b;
+    }
+}

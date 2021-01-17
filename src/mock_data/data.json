@@ -1,0 +1,338 @@
+{
+    "team_members": [
+        {
+            "img": "assets/images/team/about-2/member-1.jpg",
+            "name": "Samanta Grey",
+            "title": "Founder & CEO"
+        },
+        {
+            "img": "assets/images/team/about-2/member-2.jpg",
+            "name": "Bruce Sutton",
+            "title": "Sales & Marketing Manager"
+        },
+        {
+            "img": "assets/images/team/about-2/member-3.jpg",
+            "name": "Jat Joy",
+            "title": "Product Manager"
+        },
+        {
+            "img": "assets/images/team/about-2/member-4.jpg",
+            "name": "Mark Pocket",
+            "title": "Product Manager"
+        },
+        {
+            "img": "assets/images/team/about-2/member-5.jpg",
+            "name": "Damion Blue",
+            "title": "Sales & Marketing Manager"
+        },
+        {
+            "img": "assets/images/team/about-2/member-6.jpg",
+            "name": "Lenard Smith",
+            "title": "Product Manager"
+        },
+        {
+            "img": "assets/images/team/about-2/member-7.jpg",
+            "name": "Rachel Green",
+            "title": "Product Manager"
+        },
+        {
+            "img": "assets/images/team/about-2/member-8.jpg",
+            "name": "David Doe",
+            "title": "Product Manager"
+        }
+    ],
+    "brands": {
+        "default": [
+            {
+                "name": "brand",
+                "image": "assets/images/brands/1.png"
+            },
+            {
+                "name": "brand",
+                "image": "assets/images/brands/2.png"
+            },
+            {
+                "name": "brand",
+                "image": "assets/images/brands/3.png"
+            },
+            {
+                "name": "brand",
+                "image": "assets/images/brands/4.png"
+            },
+            {
+                "name": "brand",
+                "image": "assets/images/brands/5.png"
+            },
+            {
+                "name": "brand",
+                "image": "assets/images/brands/6.png"
+            },
+            {
+                "name": "brand",
+                "image": "assets/images/brands/7.png"
+            },
+            {
+                "name": "brand",
+                "image": "assets/images/brands/8.png"
+            },
+            {
+                "name": "brand",
+                "image": "assets/images/brands/9.png"
+            }
+        ]
+    },
+    "shop_categories": [
+        {
+            "id": 1,
+            "name": "Furniture"
+        },
+        {
+            "id": 2,
+            "name": "Coffee & Tables"
+        },
+        {
+            "id": 3,
+            "name": "Lighting"
+        },
+        {
+            "id": 4,
+            "name": "Decoration"
+        },
+        {
+            "id": 5,
+            "name": "Electronics"
+        },
+        {
+            "id": 6,
+            "name": "Beds"
+        },
+        {
+            "id": 7,
+            "name": "Armchairs & Chaises"
+        },
+        {
+            "id": 8,
+            "name": "Sofas & Sleeper Sofas"
+        }
+    ],
+    "elementsUrl": [
+        {
+            "url": "/elements/accordions",
+            "name": "accordions",
+            "class": "img-accordions"
+        },
+        {
+            "url": "/elements/banners",
+            "name": "banners",
+            "class": "img-banners"
+        },
+        {
+            "url": "/elements/blog-posts",
+            "name": "blog posts",
+            "class": "img-blog-posts"
+        },
+        {
+            "url": "/elements/buttons",
+            "name": "buttons",
+            "class": "img-buttons"
+        },
+        {
+            "url": "/elements/cta",
+            "name": "call to action",
+            "class": "img-cta"
+        },
+        {
+            "url": "/elements/icon-boxes",
+            "name": "icon boxes",
+            "class": "img-icon-boxes"
+        },
+        {
+            "url": "/elements/portfolios",
+            "name": "portfolio",
+            "class": "img-portfolio"
+        },
+        {
+            "url": "/elements/categories",
+            "name": "product catigories",
+            "class": "img-product-categories"
+        },
+        {
+            "url": "/elements/products",
+            "name": "products",
+            "class": "img-products"
+        },
+        {
+            "url": "/elements/tabs",
+            "name": "tabs",
+            "class": "img-tabs"
+        },
+        {
+            "url": "/elements/testimonials",
+            "name": "testimonials",
+            "class": "img-testimonials"
+        },
+        {
+            "url": "/elements/titles",
+            "name": "titles",
+            "class": "img-titles"
+        },
+        {
+            "url": "/elements/typography",
+            "name": "typography",
+            "class": "img-typography"
+        },
+        {
+            "url": "/elements/video-banners",
+            "name": "video",
+            "class": "img-video"
+        }
+    ],
+    "services": [
+        {
+            "id": 1,
+            "icon": "icon-rocket",
+            "title": "Free Shipping",
+            "subtitle": "Orders $50 or more"
+        },
+        {
+            "id": 2,
+            "icon": "icon-rotate-left",
+            "title": "Free Returns",
+            "subtitle": "Within 30 days"
+        },
+        {
+            "id": 3,
+            "icon": "icon-info-circle",
+            "title": "Get 20% Off 1 Item",
+            "subtitle": "When you sign up"
+        },
+        {
+            "id": 4,
+            "icon": "icon-life-ring",
+            "title": "We Support",
+            "subtitle": "24/7 amazing services"
+        }
+    ],
+    "innerOverlayPaths": [
+        "shop/sidebar",
+        "product/default",
+        "product/centered",
+        "product/extended",
+        "product/gallery",
+        "product/sticky",
+        "product/sidebar",
+        "product/fullwidth",
+        "product/masonry"
+    ],
+    "introBanners": [
+        {
+            "image": "assets/images/home/sliders/slide-1.png",
+            "subtitle": "Deals and Promotions",
+            "subtitleAdClass": "text-third",
+            "title": "Beats by <br/>Dre Studio 3",
+            "price": "<sup class=\"intro-old-price\">$349,95</sup><span class=\"text-third\">&nbsp;$279<sup>.99</sup></span>"
+        },
+        {
+            "image": "assets/images/home/sliders/slide-2.png",
+            "subtitle": "New Arrival",
+            "subtitleAdClass": "text-primary",
+            "title": "Apple iPad Pro <br/>12.9 Inch, 64GB",
+            "price": "<sup>Today:</sup><span class=\"text-primary\">&nbsp;$999<sup>.99</sup></span>"
+        }
+    ],
+    "bannerCategories": [
+        {
+            "image": "assets/images/home/cats/1.png",
+            "name": "Computer & Laptop"
+        },
+        {
+            "image": "assets/images/home/cats/2.png",
+            "name": "Digital Cameras"
+        },
+        {
+            "image": "assets/images/home/cats/3.png",
+            "name": "Smart Phones"
+        },
+        {
+            "image": "assets/images/home/cats/4.png",
+            "name": "Televisions"
+        },
+        {
+            "image": "assets/images/home/cats/5.png",
+            "name": "Audio"
+        },
+        {
+            "image": "assets/images/home/cats/6.png",
+            "name": "Smart Watches"
+        }
+    ],
+    "bannerContents": [
+        {
+            "sub_title": "Smart Offer",
+            "title": "Save $150",
+            "title_str": "on Samsung",
+            "title_br": "Galaxy Note9",
+            "img": "assets/images/home/banners/banner-1.png"
+        },
+        {
+            "sub_title": "Time Deals",
+            "title": "",
+            "title_str": "Bose SoundSport",
+            "title_br": "Time Deal -30%",
+            "img": "assets/images/home/banners/banner-2.jpg"
+        },
+        {
+            "sub_title": "Clearance",
+            "title": "",
+            "title_str": "GoPro - Fusion 360",
+            "title_br": "Save $70",
+            "img": "assets/images/home/banners/banner-3.png"
+        }
+    ],
+    "dealContents": [
+        {
+            "headerTitle": "Deal of the Day.",
+            "headerSubTitle": "Limited quantities.",
+            "productTitle": "Home Smart Speaker with  Google Assistant",
+            "newPrice": "$129.00",
+            "oldPrice": "$150.99",
+            "dataUntil": "+10h",
+            "bigImage": "assets/images/home/deals/bg-1.jpg",
+            "linkTitle": "Shop Now",
+            "link": "product/default/27"
+        },
+        {
+            "headerTitle": "Your Exclusive Offers.",
+            "headerSubTitle": "Sign in to see amazing deals.",
+            "productTitle": "Certified Wireless Charging  Pad for iPhone / Android",
+            "newPrice": "$29.99",
+            "oldPrice": "",
+            "dataUntil": "+11d",
+            "bigImage": "assets/images/home/deals/bg-2.jpg",
+            "linkTitle": "Sign In and Save money",
+            "link": "pages/login"
+        }
+    ],
+    "home_categories": [
+        {
+            "id": 1,
+            "name": "All"
+        },
+        {
+            "id": 2,
+            "name": "Accessories"
+        },
+        {
+            "id": 3,
+            "name": "Cameras"
+        },
+        {
+            "id": 4,
+            "name": "Computers & Tablets"
+        },
+        {
+            "id": 5,
+            "name": "Entertainment"
+        }
+    ]
+}
